@@ -5,7 +5,7 @@ This is a repository of open-licensed images derived from the stories in the Afr
 The [image bank](https://github.com/global-asp/asp-imagebank) was created as a side effect of generating the stories for the [Global African Storybook Project](https://global-asp.github.io/).
 
 ## Exporing the images
-The images can be explored using the [ASP Image Bank Explorer](https://github.com/dohliam/asp-imagebank-explorer).
+The images can be explored using the [ASP Image Bank Explorer](https://github.com/dohliam/imagebank-explorer).
 
 ## License
 All images in this repository are released under a Creative Commons license, either CC-BY or CC-BY-NC, in accordance with the license of the original stories from which they were extracted. A full list of source stories for the images [can be found here](https://global-asp.github.io/stories/master.html).
