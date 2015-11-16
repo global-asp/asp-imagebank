@@ -7,6 +7,9 @@ The [image bank](https://github.com/global-asp/asp-imagebank) was created as a s
 ## Exporing the images
 The images can be explored using the [ASP Image Bank Explorer](https://github.com/dohliam/imagebank-explorer).
 
+## Stats
+There are 4200+ open-licensed images in this repo, extracted from the 364 core stories that make up the [Global-ASP corpus](https://github.com/global-asp/asp-source).
+
 ## License
 All images in this repository are released under a Creative Commons license, either CC-BY or CC-BY-NC, in accordance with the license of the original stories from which they were extracted. A full list of source stories for the images [can be found here](https://global-asp.github.io/stories/master.html).
 
