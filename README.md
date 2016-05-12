@@ -1,8 +1,8 @@
 # ASP Image Bank
-This is a repository of open-licensed images derived from the stories in the African Storybook Project.
+This is a repository of open-licensed images derived from the stories in the [African Storybook Project](http://africanstorybook.org/).
 
 ## Source
-The [image bank](https://github.com/global-asp/asp-imagebank) was created as a side effect of generating the stories for the [Global African Storybook Project](https://global-asp.github.io/).
+The image bank was created as a side effect of generating the stories for the [Global African Storybook Project](https://global-asp.github.io/).
 
 ## Exporing the images
 The images can be explored using the [ASP Image Bank Explorer](https://github.com/dohliam/imagebank-explorer).
